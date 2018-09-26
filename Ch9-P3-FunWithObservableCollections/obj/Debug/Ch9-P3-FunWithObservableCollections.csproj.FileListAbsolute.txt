@@ -5,3 +5,10 @@ C:\Users\Lenovo\Documents\GitHub\Ch9-P3-FunWithObservableCollections\Ch9-P3-FunW
 C:\Users\Lenovo\Documents\GitHub\Ch9-P3-FunWithObservableCollections\Ch9-P3-FunWithObservableCollections\obj\Debug\Ch9-P3-FunWithObservableCollections.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Documents\GitHub\Ch9-P3-FunWithObservableCollections\Ch9-P3-FunWithObservableCollections\obj\Debug\Ch9-P3-FunWithObservableCollections.exe
 C:\Users\Lenovo\Documents\GitHub\Ch9-P3-FunWithObservableCollections\Ch9-P3-FunWithObservableCollections\obj\Debug\Ch9-P3-FunWithObservableCollections.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch9-P3-FunWithObservableCollections\Ch9-P3-FunWithObservableCollections\bin\Debug\Ch9-P3-FunWithObservableCollections.exe.config
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch9-P3-FunWithObservableCollections\Ch9-P3-FunWithObservableCollections\bin\Debug\Ch9-P3-FunWithObservableCollections.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch9-P3-FunWithObservableCollections\Ch9-P3-FunWithObservableCollections\bin\Debug\Ch9-P3-FunWithObservableCollections.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch9-P3-FunWithObservableCollections\Ch9-P3-FunWithObservableCollections\obj\Debug\Ch9-P3-FunWithObservableCollections.csprojAssemblyReference.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch9-P3-FunWithObservableCollections\Ch9-P3-FunWithObservableCollections\obj\Debug\Ch9-P3-FunWithObservableCollections.csproj.CoreCompileInputs.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch9-P3-FunWithObservableCollections\Ch9-P3-FunWithObservableCollections\obj\Debug\Ch9-P3-FunWithObservableCollections.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch9-P3-FunWithObservableCollections\Ch9-P3-FunWithObservableCollections\obj\Debug\Ch9-P3-FunWithObservableCollections.pdb

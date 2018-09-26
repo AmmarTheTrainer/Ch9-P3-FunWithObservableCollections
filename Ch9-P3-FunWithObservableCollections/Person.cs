@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ch9_P2_FunWithGenericCollections
+namespace Ch9_P3_FunWithObservableCollections
 {
     public class Person
     {
