@@ -10,7 +10,9 @@ namespace Ch9_P3_FunWithObservableCollections
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("welcome back from China");
 
+            Console.ReadLine();
         }
     }
 }
