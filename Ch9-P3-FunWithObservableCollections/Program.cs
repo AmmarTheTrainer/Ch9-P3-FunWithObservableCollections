@@ -12,23 +12,38 @@ namespace Ch9_P3_FunWithObservableCollections
     {
         static void Main(string[] args)
         {
-            // Make a collection to observe and add a few Person objects.
-            ObservableCollection<Person> people = new ObservableCollection<Person>()
-            {
-                new Person{ FirstName = "Peter", LastName = "Murphy", Age = 52 },
-                new Person{ FirstName = "Kevin", LastName = "Key", Age = 48 },
-                new Person{ FirstName = "Ammar", LastName = "Shaukat", Age = 26 },
-            };
+            #region ObserableCollection<T>
 
-            // Wire up the CollectionChanged event.
-            people.CollectionChanged += people_CollectionChanged;
+            //// Make a collection to observe and add a few Person objects.
+            //ObservableCollection<Person> people = new ObservableCollection<Person>()
+            //{
+            //    new Person{ FirstName = "Peter", LastName = "Murphy", Age = 52 },
+            //    new Person{ FirstName = "Kevin", LastName = "Key", Age = 48 },
+            //    new Person{ FirstName = "Ammar", LastName = "Shaukat", Age = 26 },
+            //};
 
-            people.RemoveAt(1);
+            //// Wire up the CollectionChanged event.
+            //people.CollectionChanged += people_CollectionChanged;
 
-            people.Add(new Person { FirstName = "faiza ", LastName = "qamar ", Age = 2 });
-            people.Add(new Person { FirstName = "faiza 2", LastName = "qamar 2", Age = 22 });
+            //people.RemoveAt(1);
 
-            //ShowCurrentItems(people);
+            //people.Add(new Person { FirstName = "faiza ", LastName = "qamar ", Age = 2 });
+            //people.Add(new Person { FirstName = "faiza 2", LastName = "qamar 2", Age = 22 });
+
+            ////ShowCurrentItems(people);
+
+            #endregion
+
+            #region ReadOnlyObserableCollection<T>
+
+            //ReadOnlyObservableCollection<Person> ReadOnlyPeople = new ReadOnlyObservableCollection<Person>
+            //{
+            //    new Person{ FirstName = "person 1 " , LastName = "person 1 lastname " , Age = 22},
+            //    new Person{ FirstName = "person 1 " , LastName = "person 1 lastname " , Age = 22},
+            //};
+
+            #endregion
+
 
             Console.ReadLine();
 
